@@ -1,6 +1,4 @@
-// App.js 
 
-// Import necessary modules and components 
 import React, { useState } from "react"; 
 import { 
 	View, 
